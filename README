@@ -1,0 +1,3 @@
+====== simple_ping v0.1a ======
+
+A simple gem that pings a system and will return true or false
