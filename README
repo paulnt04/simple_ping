@@ -1,3 +1,4 @@
 ====== simple_ping v0.1a ======
 
-A simple gem that pings a system and will return true or false
+A simple gem that pings a system and will return true or false.
+By default, will use a system ping, but is also capable of a pure ICMP ping.
